@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "stablesmp000.aternos.me",
-    "port":64708,
+    "port": 64708,
     "version": "",
     "try-creative": false
   },
