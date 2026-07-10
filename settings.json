@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stablesmp000.aternos.me",
-    "port": 64708,
+    "ip": "stabelsmp22.aternos.me",
+    "port": 20104,
     "version": "",
     "try-creative": false
   },
